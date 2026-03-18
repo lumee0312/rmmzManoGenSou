@@ -1,0 +1,26 @@
+[
+  {
+    "code": "GOLD",
+    "startDate": "2000-01-01T00:00Z",
+    "endDate": "2009-12-31T23:59Z",
+    "rewards": [
+      { "type": "gold", "id": 0,  "amount": 500 }
+    ]
+  },
+  {
+    "code": "WWE",
+    "startDate": "2000-01-01T00:00Z",
+    "endDate": "2009-12-31T23:59Z",
+    "rewards": [
+      { "type": "exp", "id": 0, "amount": 250 }
+    ]
+  },
+  {
+    "code": "POTION",
+    "startDate": "2000-01-01T00:00Z",
+    "endDate": "2199-12-31T23:59Z",
+    "rewards": [
+      { "type": "item", "id": 11, "amount": 1 }
+    ]
+  }
+]
